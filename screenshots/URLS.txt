@@ -1,0 +1,12 @@
+
+public url for app after deployment 
+
+https://aparnajmca22-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/
+
+url of screenshots
+
+https://github.com/apsjp92/xrwvm-fullstack_developer_capstone/tree/main/screenshots
+
+forked GitHub repo
+
+https://github.com/apsjp92/xrwvm-fullstack_developer_capstone/tree/main
